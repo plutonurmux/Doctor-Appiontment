@@ -48,7 +48,7 @@ Note: Please note that these are general instructions for setting up an Express 
 - React-Bootstrap
 - Html
 - css5
-- Meterail UI
+- Meterial UI
 - React Animation
 - Preloader
 - Alert
@@ -58,7 +58,7 @@ Note: Please note that these are general instructions for setting up an Express 
 - MongoDb
 - Express
 - Cors
-- Body-Parse
+- Body-Parser
 - Nodemon
 - ImageUploader 
  
